@@ -1,7 +1,8 @@
 ```diff
 Lucent@lightPC:~$ whoami
-+ [current-work/INFO]: Working on Pink Parrots.
++ [current-work/INFO]: Working on Digriss and ConstaX in Pink Parrots.
 + [skills/INFO]: Mainly Python.
++ [Who-are-you/INFO]: I'm Student :>
 - [mental/WARN]: Still not able to do something amazing but, still learning!
 + [things-that-i-love/INFO]: I LOVE COOL HARDWARES!
 ```
